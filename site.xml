@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Agrotracker Update Site" url="http://nicomachado.github.io/atupdates/">
+      Agrotracker Update Site ( Eclipse Helios, Java 1.6 )
+   </description>
+   <feature url="features/AgroTracker.Feature_1.1.138.202112200959.jar" id="AgroTracker.Feature" version="1.1.138.202112200959">
+      <category name="AgroTacker"/>
+   </feature>
+   <category-def name="AgroTacker" label="AgroTracker"/>
+</site>
